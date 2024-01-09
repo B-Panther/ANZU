@@ -1,1 +1,2 @@
 command = 'Activate'
+print(command)
