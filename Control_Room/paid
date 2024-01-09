@@ -1,3 +1,3 @@
 # Example server script content
-def Activate():
-    Activate()
+def Deativate():
+    deactivate()
