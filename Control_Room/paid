@@ -1,1 +1,3 @@
+# Example server script content
 def Activate():
+    Activate()
