@@ -6,7 +6,6 @@ action = 'Activate'
 # Check the action and execute corresponding code
 if action == 'Activate':
     # If action is 'Activate', send a message indicating key approval status
-    print("Your key is not approved with key")
     Activate()  
     # You can perform additional actions or call corresponding functions here
 
