@@ -1,17 +1,17 @@
-code1 = "en_GB"
-loc1 = "PK"
+code1 = "da_DK"
+loc1 = "DK"
 
-code2 = "es_AR"
-loc2 = "AR"
+code2 = "chr_US"
+loc2 = "US"
 
 code3 = "tr_TR"
 loc3 = "TR"
 
-code4 = "uk_UA"
-loc4 = "UA"
+code4 = "th_TH"
+loc4 = "TH"
 
-code5 = "en_GB"
-loc5 = "GB"
+code5 = "en_CA"
+loc5 = "CA"
 
 code6 = "ms_MY"
 loc6 = "MY"
