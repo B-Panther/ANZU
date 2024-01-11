@@ -1,17 +1,17 @@
 code1 = "da_DK"
 loc1 = "DK"
 
-code2 = "chr_US"
-loc2 = "US"
+code2 = "vi_VN"
+loc2 = "VN"
 
-code3 = "tr_TR"
-loc3 = "TR"
+code3 = "hi_IN"
+loc3 = "IN"
 
-code4 = "th_TH"
-loc4 = "TH"
+code4 = "ar_QA"
+loc4 = "QA"
 
-code5 = "en_CA"
-loc5 = "CA"
+code5 = "es_MX"
+loc5 = "MX"
 
-code6 = "ms_MY"
+code6 = "es"
 loc6 = "MY"
