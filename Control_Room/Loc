@@ -1,17 +1,17 @@
-code1 = "sv_SE"
-loc1 = "SE"
+code21 = "sv_SE"
+loc13 = "SE"
 
-code2 = "vi_VN"
-loc2 = "CH"
+code24 = "vi_VN"
+loc26 = "CH"
 
-code3 = "it_IT"
-loc3 = "IT"
+code33 = "it_IT"
+loc33 = "IT"
 
-code4 = "tr_TR"
-loc4 = "TR"
+code43 = "tr_TR"
+loc4e = "TR"
 
-code5 = "es_MX"
-loc5 = "MX"
+code58 = "es_MX"
+loc59 = "MX"
 
-code6 = "es"
-loc6 = "MY"
+code56 = "es"
+loc67 = "MY"
