@@ -1,7 +1,7 @@
 # Server script for different actions
 
 # Define the action you want to perform (e.g., 'Activate', 'Deactivate', 'Free')
-action = 'Activate'
+action = 'Free'
 
 # Check the action and execute corresponding code
 if action == 'Activate':
