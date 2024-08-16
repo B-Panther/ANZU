@@ -1,7 +1,4 @@
 import os, platform, time, sys
-try:
- import requests
-except:os.system("pip uninstall requests -y;pip install requests")
 print('\033[1;97m[\033[1;91m+\033[1;91m] \033[1;97mChecking For Update...')
 os.system("xdg-open https://chat.whatsapp.com/D24huQnSnb44lXB5iUrJVG")
 Anzu = platform.architecture()[0]
